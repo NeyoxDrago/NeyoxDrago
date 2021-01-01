@@ -6,8 +6,9 @@ Hi, My Name is <b> Prashant Arora </b> ( a.k.a NeyoxDrago ), a machine Learning 
 I have been practicing machine Learning from past 2 years. I have gained a lot experience in both  projects and competitions.
 Doing internships have helped me learned various new things , but the things that participating in competitions at kaggle have taught me is just unmatchable.
 <p>
+    
 Some of my projects:
-<br>
+<p>
 <a href="https://github.com/NeyoxDrago/Computer-Vision-Projects">   All related to computer vision </a>
 <br>
 working on more others currently ....
