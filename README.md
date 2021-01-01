@@ -26,8 +26,12 @@ Links to My profile on various platforms
 </p>
 
 <b>Contact:</b>
+<br>  
+You can contact for any project or any help or working for open source  together. 
 <p>
     Email : prashantarora98@gmail.com
     <br>
     whatsapp : <a href="https://api.whatsapp.com/send?phone=8630831390">just tap here</a>
 </p>
+
+Thank You .
