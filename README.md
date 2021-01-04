@@ -9,7 +9,10 @@ Doing internships have helped me learned various new things , but the things tha
     
 Some of my projects:
 <p>
-<a href="https://github.com/NeyoxDrago/Computer-Vision-Projects">   All related to computer vision </a>
+<ul>  
+<li><a href="https://github.com/NeyoxDrago/Computer-Vision-Projects"> All related to computer vision </a>
+<li><a href="https://github.com/NeyoxDrago/Algorithms-from-Scratch"> Some Simple implementations from scratch </a>
+</ul>
 <br>
 working on more others currently ....
 
