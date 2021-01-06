@@ -11,7 +11,20 @@ Some of my projects:
 <p>
 <ul>  
 <li><a href="https://github.com/NeyoxDrago/Computer-Vision-Projects"> All related to computer vision </a>
+    <ul>
+        <li> Face Key Points Detection
+        <li> Segmenting Skin Lesions
+        <li> Digit Detection using SVHN dataset
+         <br>
+            ....... more to be implemented
+    </ul>
 <li><a href="https://github.com/NeyoxDrago/Algorithms-from-Scratch"> Some Simple implementations from scratch </a>
+    <ul>
+        <li> Regression :: Linear , Lasso , Ridge , ElasticNet
+        <li> Classification Trees :: Decision Trees ( with 2 nodes and 3 nodes ) 
+         <br>
+            ....... more to be implemented
+    </ul>
 </ul>
 <br>
 working on more others currently ....
