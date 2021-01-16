@@ -15,15 +15,16 @@ Some of my projects:
         <li> Face Key Points Detection
         <li> Segmenting Skin Lesions
         <li> Digit Detection using SVHN dataset
+        <li> Neural Style Transfer
          <br>
-            ....... more to be implemented
+            ..... etc. and more to be implemented
     </ul>
 <li><a href="https://github.com/NeyoxDrago/Algorithms-from-Scratch"> Some Simple implementations from scratch </a>
     <ul>
         <li> Regression :: Linear , Lasso , Ridge , ElasticNet
         <li> Classification Trees :: Decision Trees ( with 2 nodes and 3 nodes ) 
          <br>
-            ....... more to be implemented
+            ..... etc. and more to be implemented
     </ul>
 </ul>
 <br>
